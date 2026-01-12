@@ -3,6 +3,8 @@ import { FaClipboardList } from 'react-icons/fa';
 import { FaPlus } from 'react-icons/fa';
 import Todoitem from './Todoitem';
 
+
+
 const Todo = () => {
   return (
     <div className="place-self-center bg-white w-112.5 h-150 p-12 flex flex-col gap-8 rounded-lg">
@@ -26,6 +28,12 @@ const Todo = () => {
       {/* Listelenen Görevler */}
       <div className='mt-5'>
         <Todoitem />
+        <Todoitem />
+        <Todoitem />
+        <Todoitem />
+        <Todoitem />
+        
+
       </div>
 
     </div>
