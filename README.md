@@ -22,23 +22,22 @@ The user should be able to:
 ---
 
 ## Project Skeleton
+
+```text
 Todo_App_React
-│
 ├── public
-│
 ├── src
-│ ├── components
-│ │ ├── Todo.jsx
-│ │ └── Todoitem.jsx
-│ │
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
-│
+│   ├── components
+│   │   ├── Todo.jsx
+│   │   └── Todoitem.jsx
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
 ├── index.html
 ├── package.json
 ├── vite.config.js
 └── README.md
+
 
 
 ---
@@ -46,7 +45,7 @@ Todo_App_React
 ## Outcome
 Below is a preview of the application interface:
 
-> (Here you can add screenshots later)
+![Todo App Preview](./screenshots/todo-preview.png)
 
 ---
 
@@ -88,7 +87,4 @@ Future versions will include UI improvements and new features.
 ## Notes
 This project is created for **learning purposes** and will be updated as I improve my React skills.
 
-## Outcome
-Below is a preview of the application interface:
 
-![Todo App Preview](./screenshots/todo-preview.png)
