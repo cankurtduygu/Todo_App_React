@@ -87,3 +87,8 @@ Future versions will include UI improvements and new features.
 
 ## Notes
 This project is created for **learning purposes** and will be updated as I improve my React skills.
+
+## Outcome
+Below is a preview of the application interface:
+
+![Todo App Preview](./screenshots/todo-preview.png)
