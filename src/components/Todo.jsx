@@ -2,8 +2,6 @@ import {useEffect, useRef, useState} from 'react';
 import { FaClipboardList, FaPlus } from 'react-icons/fa';
 import Todoitem from './Todoitem';
 
-
-
 const Todo = () => {
 
   const [todos, setTodos] = useState(localStorage.getItem('todos') ? JSON.parse(localStorage.getItem('todos')) : [] );

@@ -1,16 +1,89 @@
-# React + Vite
+# Project-Name : Todo App (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 Live Demo  
+https://<BURAYA-LIVE-LINK-GELECEK>
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Description
+This project is my **first React project**.  
+The aim is to build a simple and clean **To-Do application** using React fundamentals.  
+The project is created as **Version 1 (v1)** and will be improved step by step.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Problem Statement
+The user should be able to:
+- Create new to-do tasks
+- Mark tasks as done or undone
+- Delete tasks
+- Keep tasks even after page refresh (LocalStorage)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Project Skeleton
+Todo_App_React
+│
+├── public
+│
+├── src
+│ ├── components
+│ │ ├── Todo.jsx
+│ │ └── Todoitem.jsx
+│ │
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+│
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+
+
+---
+
+## Outcome
+Below is a preview of the application interface:
+
+> (Here you can add screenshots later)
+
+---
+
+## Objective
+To improve my understanding of:
+- React components
+- Props & state management
+- React hooks (useState, useEffect, useRef)
+- Basic project structuring
+- Using LocalStorage in React
+
+---
+
+## User Stories
+- When I click the **add (+) button**, I can add a new to-do task.
+- When I click on a task, I can mark it as **completed or uncompleted**.
+- When I click the **delete icon**, I can remove the task from the list.
+- Completed tasks are visually different from active tasks.
+
+---
+
+## Technologies Used
+- React
+- JavaScript
+- Vite
+- Tailwind CSS
+- LocalStorage
+
+---
+
+## Versioning
+- **v1** – Initial React To-Do App  
+  (Basic CRUD operations, LocalStorage support)
+
+Future versions will include UI improvements and new features.
+
+---
+
+## Notes
+This project is created for **learning purposes** and will be updated as I improve my React skills.
