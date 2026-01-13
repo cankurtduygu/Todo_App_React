@@ -46,12 +46,11 @@ Todo_App_React
 ## Outcome
 Below is a preview of the application interface:
 
-### 📸 Screenshot
-![Todo App Preview](./screenshots/todo-preview.png)
+
 
 ### 🎥 Demo Video
-https://github.com/user-attachments/assets/74fc7d0b-8b8c-41c4-b544-236b143567ea
 
+https://github.com/user-attachments/assets/be4e0e5c-0c27-4d06-bb97-8e0a84dce2d8
 
 ---
 
