@@ -50,9 +50,7 @@ Below is a preview of the application interface:
 
 ### 🎥 Demo Video
 
-https://github.com/user-attachments/assets/85d78d30-e9a9-402c-a64b-41bc4776e45b
-
-
+https://github.com/user-attachments/assets/be4e0e5c-0c27-4d06-bb97-8e0a84dce2d8
 
 ---
 
