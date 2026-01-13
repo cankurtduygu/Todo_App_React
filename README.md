@@ -5,6 +5,11 @@ https://cankurtduygu.github.io/Todo_App_React/
 
 ---
 
+## Demo
+
+![Todo App Demo](https://raw.githubusercontent.com/cankurtduygu/Todo_App_React/main/src/screenshots/TodoApp_vs1.gif)
+
+
 ## Description
 This project is my **first React project**.  
 The aim is to build a simple and clean **To-Do application** using React fundamentals.  
