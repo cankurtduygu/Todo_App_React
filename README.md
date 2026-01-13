@@ -1,7 +1,7 @@
 # Project-Name : Todo App (React)
 
 🔗 Live Demo  
-https://<BURAYA-LIVE-LINK-GELECEK>
+https://cankurtduygu.github.io/Todo_App_React/
 
 ---
 
